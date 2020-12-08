@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1607468218559,
+  "timestamp": 1607469149246,
   "index": "https://arsk02.github.io/Shop-Angular/index.html",
   "assetGroups": [
     {
@@ -70,7 +70,7 @@
     "https://arsk02.github.io/Shop-Angular/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://arsk02.github.io/Shop-Angular/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://arsk02.github.io/Shop-Angular/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://arsk02.github.io/Shop-Angular/index.html": "d39045f07174dc0728d5076291bf10f9c764f2f5",
+    "https://arsk02.github.io/Shop-Angular/index.html": "2dd65cd608649c4c71451ca0cdc5fe62affe7ff1",
     "https://arsk02.github.io/Shop-Angular/main-es2015.53c714ae25b477168ccf.js": "b51c132d2dce07071efa661cce5cd6b46a85a4e5",
     "https://arsk02.github.io/Shop-Angular/main-es5.53c714ae25b477168ccf.js": "09fac2f2c030dff158393d4f79fa577bb1fbf535",
     "https://arsk02.github.io/Shop-Angular/manifest.webmanifest": "18e83d0c21aee1fc261d8daba26839a8536fd4b9",
